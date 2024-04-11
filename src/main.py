@@ -1,6 +1,6 @@
 # Library of jumble 
 # A project similar to library of babel, but with english words.
-# Github: https://www.github.com/lewisevans2007/library_of_jumble
+# Github: https://www.github.com/0x4248/library_of_jumble
 
 import random
 import os
